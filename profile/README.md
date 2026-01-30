@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://netsurit.com/en-us/wp-content/uploads/sites/5/2023/03/Netsurit-Logo-2.png" alt="Netsurit Logo" width="300">
-</p>
-
 # Netsurit Development
 
 > Internal DX tooling and automation supporting Netsurit's mission to deliver reliable technology, robust security, and continuous innovation.
